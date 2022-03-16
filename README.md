@@ -15,9 +15,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghazie754&theme=highcontrast" alt="ghazie754" /></p>
 
 <p align="center">
-
 ![Ghazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghazie754&bg_color=#f3bd0f&show_icons=true)
-
 </p>
 
 <p align="center">
