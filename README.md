@@ -1,6 +1,5 @@
 # <h1 align="center">Hi there 👋</h1><p align="left">Im Ghazi Ramadan. A 🇺🇸</p>
 
-
 <p align="left">lvxkmlxkcmvvmmvai</p>
 <p align="left"></p>
 <p align="left"></p>
