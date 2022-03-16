@@ -5,7 +5,10 @@
 <p align="left"></p>
 <p align="left">Thank you 🥰</p>
 
-<p align="center"><a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> <img src="https://komarev.com/ghpvc/?username=ghazie754&label=Profile%20views&color=0e75b6&style=flat" alt="ghazie754" /></p>
+<p align="center">
+<a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
+ <img src="https://komarev.com/ghpvc/?username=ghazie754&label=Profile%20views&color=0e75b6&style=flat" alt="ghazie754" />
+</p>
 <!-- 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghazie754" alt="ghazie754" /></a> </p> -->
 
@@ -45,9 +48,9 @@
 
 <p align="center">
 
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
-)![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
