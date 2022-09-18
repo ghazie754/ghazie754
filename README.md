@@ -1,6 +1,6 @@
 # Hi there 👋I'm Ghazi Ramadan and form the United States of 🇺🇸  American<img src="https://komarev.com/ghpvc/?username=ghazie754&label=Profile%20views&color=0e75b6&style=flat" alt="ghazie754" />
 
-## I studied computer science, applied maths, pure maths and data science. I’m also an artist, game maker, DevOpsSec, and a graph designer with programming (and creative coding in general) on my free time
+## I studied computer science, applied maths, pure maths, and data science. I’m also an artist, game maker, DevOpsSec, and graph designer with programming (and creative coding in general) in my free time.
 
 ## Thank you 🦕
 
