@@ -27,7 +27,7 @@
     kubernetes
     jenkins
     git/github/github workflow
-#### Frameworks, Platforms and Libraries
+#### commend line tools 
     bash
 #### 🎨 Design Tools
     Aseprite
