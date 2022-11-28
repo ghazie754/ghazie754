@@ -1,7 +1,5 @@
 # Hi there 👋I'm Ghazi Ramadan form the United States of 🇺🇸  American<img src="https://komarev.com/ghpvc/?username=ghazie754&label=Profile%20views&color=0e75b6&style=flat" alt="ghazie754" />
 
-## I'm interested in renewable energy, ethical AI and social enterprise software
-
 ## Experienced Landscape Designer with several years of experience working with clients to create and enhance the aesthetics and function of natural outdoor spaces. Bringing forth exceptional design and horticulture skills, and a true ability to understand and strive toward the vision of a client. Adept in designing, managing, and planning the production of projects, ranging from small to very large-scale. Offering strong communication skills, and an ability to collaborate and lead as a dynamic and dedicated professional
 
 ## Thank you 🦕
