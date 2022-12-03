@@ -1,6 +1,6 @@
 # Hi there 👋I'm Ghazi Ramadan form the United States of 🇺🇸  American<img src="https://komarev.com/ghpvc/?username=ghazie754&label=Profile%20views&color=0e75b6&style=flat" alt="ghazie754" />
 
-## Experienced Landscape Designer with several years of experience working with clients to create and enhance the aesthetics and function of natural outdoor spaces. Bringing forth exceptional design and horticulture skills, and a true ability to understand and strive toward the vision of a client. Adept in designing, managing, and planning the production of projects, ranging from small to very large-scale. Offering strong communication skills, and an ability to collaborate and lead as a dynamic and dedicated professional
+##  I studied computer science, applied maths, pure maths, and data science. I’m also an artist, game maker, DevOpsSec, and graph designer with programming (and creative coding in general) in my free time. Professional Landscape Designer with several years of experience working with clients to create and enhance the aesthetics and function of natural outdoor spaces. The ability to understand and fulfill a client's vision is what sets us apart as a design and horticulture company. Design, manage, and plan projects of all sizes, from small to very large. My communication and collaboration skills make me a dynamic, dedicated professional.
 
 ## Thank you 🦕
 
