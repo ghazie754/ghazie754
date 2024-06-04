@@ -11,8 +11,7 @@
     html5
     css3, SASS
     javascript, nodejs, d3js, Threejs
-    React, ReactRxJS, reactnative,
-    NextJS
+    React, ReactRxJS, reactnative, NextJS
     php
     swift
 
@@ -24,11 +23,6 @@
     Webpack
     NodeJS, Express.js
 
-#### Database
-
-    mongodb
-    postgresql
-
 #### CI/CD configuration
 
     docker
@@ -36,21 +30,6 @@
     kubernetes
     jenkins
     git/ github/ github workflow
-
-#### commend line tools
-
-    bash
-    zah
-    na
-    rust
-
-#### 🎨 Design Tools
-
-    Aseprite
-    Blender
-    Figma
-    Framer
-    sketch
 
 #### ⚡ Developer work
 
